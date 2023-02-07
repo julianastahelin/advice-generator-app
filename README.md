@@ -1,6 +1,6 @@
 <h1>Advice generator app - Frontend Mentor</h1>
 
-<p>This is a Advice Generator App layout coded as an exercise for advanced HTML and CSS practicing, proposed by the course DevQuest by Dev em Dobro. The project is from <a href="https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db">Frontend Mentor</a>.</p>
+<p>This is a Advice Generator App layout coded as an exercise for advanced HTML and CSS practicing, proposed by the course DevQuest by <a href="https://github.com/devemdobro" target="_blank">Dev em Dobro</a>. The project is from <a href="https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db">Frontend Mentor</a>.</p>
 
 <h2>Overview</h2>
 
