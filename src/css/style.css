@@ -53,10 +53,11 @@ body {
   border: none;
   position: absolute;
   bottom: -30px;
+  cursor: pointer;
 }
 
 .dice-container:hover {
-  opacity: 80%;
+  opacity: 75%;
   transform: scale(1.05) rotate(90deg);
   transition: ease-in-out 0.3s;
 }
