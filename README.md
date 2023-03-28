@@ -18,7 +18,9 @@
 
 <h3>Link</h3>
 <ul>
-    <li>Live site URL: <a href="https://julianastahelin.github.io/advice-generator-app/"></a>https://julianastahelin.github.io/advice-generator-app/</li>
+    <li>Live site URL: <a href="https://julianastahelin.github.io/advice-generator-app/">https://julianastahelin.github.io/advice-generator-app/</a></li>
+    <li>Frontend Mentor - challenge: <a href="https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db">https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db</a></li>
+    <li>Frontend Mentor - my solution: <a href="https://www.frontendmentor.io/solutions/responsive-advice-generator-consuming-api-7Gk-2bnq_F">https://www.frontendmentor.io/solutions/responsive-advice-generator-consuming-api-7Gk-2bnq_F</a></li>
 </ul>
 
 <h2>My process</h2>
