@@ -5,9 +5,8 @@
 <h2>Overview</h2>
 
 <h3>The project</h3>
-<p>The aim of the exercise was to build the app's interface using HTML and CSS, as close as possible to Frontend Mentor's solution. The interface should be responsive to different screen sizes.</p>
+<p>The aim of the exercise was to build the app's interface using HTML and CSS, as close as possible to Frontend Mentor's solution. The interface should be responsive to different screen sizes. The project consumes an API for generating advice. The user should get a new advice every time the dice button is clicked.</p>
 <p>I made a modification to the original design, adding a title to introduce the functionality.</p>
-<p>The project consumes an API for generating advice. The user should get a new advice every time the dice button is clicked.</p>
 
 <h3>Preview</h3>
 <h4>Desktop</h4>
