@@ -1,0 +1,20 @@
+@media (max-width:426px) {
+    .title {
+        font-size: 25px;
+        padding: 8%;
+        width: 80%;
+    }
+    
+    .card {
+        max-width: 85%;
+    }
+
+    .advice-title {
+        font-size: 10px;
+    }
+
+    .advice-text {
+        font-size: 22px;
+    }
+
+}
